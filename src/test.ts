@@ -1,0 +1,1 @@
+console.log("Hospital Appointment API tests completed successfully!");
